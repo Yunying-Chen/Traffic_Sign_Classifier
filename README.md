@@ -2,8 +2,8 @@
 A traffic sign classifer with Tensorflow
 
 ## Environment 
-  Tensroflow
-  python
+  Tensroflow,
+  python,
   numpy
   
 ## Dataset
